@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
+	"outDir": "build",
     "lib": [
       "DOM"
     ],
+	"skipLibCheck": true,
     "noImplicitAny": true,
     "noImplicitOverride": true,
     "strict": true,
